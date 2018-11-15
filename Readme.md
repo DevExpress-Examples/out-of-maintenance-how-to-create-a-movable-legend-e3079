@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/LegendAnnotation/Form1.cs) (VB: [Form1.vb](./VB/LegendAnnotation/Form1.vb))
+<!-- default file list end -->
 # How to create a movable legend
 
 
